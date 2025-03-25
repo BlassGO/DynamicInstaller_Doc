@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Dynamic Installer</ShortName>
+  <Description>Search Dynamic Installer</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="get" template="https://BlassGO.github.io/DynamicInstaller_Doc/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://BlassGO.github.io/DynamicInstaller_Doc/opensearch.xml" />
+  <moz:SearchForm>https://BlassGO.github.io/DynamicInstaller_Doc/</moz:SearchForm>
+</OpenSearchDescription>
