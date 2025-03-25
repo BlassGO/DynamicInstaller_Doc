@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_installer_doc=self.webpackChunkdynamic_installer_doc||[]).push([[9647],{8122:(e,s,r)=>{r.r(s),r.d(s,{default:()=>u});r(6540);var a=r(4164),c=r(1082),n=r(204),l=r(2831),d=r(1410),t=r(4848);function u(e){return(0,t.jsx)(c.e3,{className:(0,a.A)(n.G.wrapper.docsPages),children:(0,t.jsx)(d.A,{children:(0,l.v)(e.route.routes)})})}}}]);

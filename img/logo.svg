@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Fondo circular -->
+  <circle cx="100" cy="100" r="100" fill="#0E173F"/>
+  
+  <!-- Texto DI -->
+  <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" fill="#E5CBA8" font-weight="bold" dy="-15">
+    DI
+  </text>
+
+  <!-- Texto Android -->
+  <text x="50%" y="50%" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#E5CBA8" dy="40">
+    ANDROID
+  </text>
+</svg>

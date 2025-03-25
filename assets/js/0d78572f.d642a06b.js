@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_installer_doc=self.webpackChunkdynamic_installer_doc||[]).push([[406],{426:e=>{e.exports=JSON.parse('{"tags":[{"label":"News","permalink":"/DynamicInstaller_Doc/blog/tags/news","description":"News and updates","count":1}]}')}}]);

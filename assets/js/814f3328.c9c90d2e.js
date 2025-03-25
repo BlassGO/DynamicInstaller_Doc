@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdynamic_installer_doc=self.webpackChunkdynamic_installer_doc||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/DynamicInstaller_Doc/blog/welcome","unlisted":false,"date":"2025-03-22T00:00:00.000Z"}]}')}}]);

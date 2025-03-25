@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Dynamic Installer Blog</title>
+        <link>https://BlassGO.github.io/DynamicInstaller_Doc/blog</link>
+        <description>Dynamic Installer Blog</description>
+        <lastBuildDate>Sat, 22 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://BlassGO.github.io/DynamicInstaller_Doc/blog/welcome</link>
+            <guid>https://BlassGO.github.io/DynamicInstaller_Doc/blog/welcome</guid>
+            <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[DI]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="DI" src="https://blassgo.github.io/DynamicInstaller_Doc/assets/images/banner-76930060094d9f758c4020f3c8158559.jpg" width="1080" height="460" class="img_ev3q"></p>
+<blockquote>
+<p>This is the first edition of the official documentation of the Dynamic installer framework for Android 🚀.</p>
+</blockquote>
+<p>For a very long time, the <strong>XDA</strong> forum was used to keep the Dynamic Installer documentation up-to-date. However, due to the large number of features, navigating the information comfortably became difficult. This, in addition to being annoying, caused many developers not to take advantage of all the existing features and ended up designing their own functions (which is not bad, but the idea is to save time and not re-do what is already done).</p>
+<p>Also, many questions that came to my inbox, many of which were in the documentation, but I can't blame them, despite my efforts to group the information into multiple segments (which helped), the format of a forum is not the most suitable for any type of extensive documentation, it was difficult to find something without having a small idea of where it already was.</p>
+<p>With this much more organized and accessible documentation, I hope to see projects that take full advantage of the DI!</p>
+<p>See you soon.</p>]]></content:encoded>
+            <category>News</category>
+        </item>
+    </channel>
+</rss>
