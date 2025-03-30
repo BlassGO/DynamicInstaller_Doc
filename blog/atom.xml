@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://BlassGO.github.io/DynamicInstaller_Doc/blog</id>
+    <id>https://blassgo.github.io/DynamicInstaller_Doc/blog</id>
     <title>Dynamic Installer Blog</title>
     <updated>2025-03-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://BlassGO.github.io/DynamicInstaller_Doc/blog"/>
+    <link rel="alternate" href="https://blassgo.github.io/DynamicInstaller_Doc/blog"/>
     <subtitle>Dynamic Installer Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://BlassGO.github.io/DynamicInstaller_Doc/blog/welcome</id>
-        <link href="https://BlassGO.github.io/DynamicInstaller_Doc/blog/welcome"/>
+        <id>https://blassgo.github.io/DynamicInstaller_Doc/blog/welcome</id>
+        <link href="https://blassgo.github.io/DynamicInstaller_Doc/blog/welcome"/>
         <updated>2025-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[DI]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="DI" src="https://blassgo.github.io/DynamicInstaller_Doc/assets/images/banner-76930060094d9f758c4020f3c8158559.jpg" width="1080" height="460" class="img_ev3q"></p>

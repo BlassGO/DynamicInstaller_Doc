@@ -4,7 +4,7 @@
   <ShortName>Dynamic Installer</ShortName>
   <Description>Search Dynamic Installer</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Url type="text/html" method="get" template="https://BlassGO.github.io/DynamicInstaller_Doc/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://BlassGO.github.io/DynamicInstaller_Doc/opensearch.xml" />
-  <moz:SearchForm>https://BlassGO.github.io/DynamicInstaller_Doc/</moz:SearchForm>
+  <Url type="text/html" method="get" template="https://blassgo.github.io/DynamicInstaller_Doc/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://blassgo.github.io/DynamicInstaller_Doc/opensearch.xml" />
+  <moz:SearchForm>https://blassgo.github.io/DynamicInstaller_Doc/</moz:SearchForm>
 </OpenSearchDescription>
